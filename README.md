@@ -1,4 +1,4 @@
-# 🎮 Unity Pong
+# 🎮 Modern Pong
 
 A simple Pong game built with Unity, personal project to learn and polish Unity fundamentals, still have few bugs and things to improve.
 
@@ -23,10 +23,10 @@ A simple Pong game built with Unity, personal project to learn and polish Unity 
 
 ## 📸 Screenshots
 
-MAIN MENU:
+Main menu:
 
 <img width="649" height="402" alt="image" src="https://github.com/user-attachments/assets/01bd4028-a2e4-47aa-a299-9ce75e993949" />
 
-GAME:
+Game:
 <img width="1277" height="687" alt="image" src="https://github.com/user-attachments/assets/4b12a521-6753-4c5c-a71a-e1450af5bd0a" />
 
